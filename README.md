@@ -1,3 +1,9 @@
+### Project Description
+
+This project is the result of me and four team members during a software engineering class at UCSC. This project was created in roughly 2 months.
+
+-------------------------------------
+
 # CruzCards
 ## Table of Contents
 1. [General Information](https://github.com/sabrinafogel/CruzCards/blob/main/README.md#general-information)
